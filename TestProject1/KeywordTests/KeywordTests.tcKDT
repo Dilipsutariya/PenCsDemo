@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="Test1" key="{69A5409F-C49A-4D8C-BD80-124093F5EBEE}" path="Test1.tcKDTest" />
+		<child name="Test2" key="{8E77C209-5768-4679-A9BD-B874C7A57E68}" path="Test2.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Methods">
+			<child name="BasicMethod" key="{64DC3611-E5FC-4401-B957-43A79C7349FA}" path="BasicMethod.js" />
+		</folder>
+		<folder name="Tests">
+			<child name="Test1" key="{5BA5556C-FC95-4D28-B79A-5590415B4E25}" path="Test1.js" />
+			<child name="Test2" key="{29799501-A5F0-4557-A0AA-5CBE3934F28A}" path="Test2.js" />
+			<child name="Test3" key="{01F0E454-42E3-425A-9F23-343258B4E3C7}" path="Test3.js" />
+		</folder>
+	</children>
+</Root>
